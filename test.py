@@ -5,4 +5,5 @@ if a >1 :
     print("ok")
 else :
     print("gogobe")
-c=4
+
+    print("hi")
